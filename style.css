@@ -1,15 +1,16 @@
 body{
      background: lightcyan;
      width: 800px;
-     margin:auto;
+     margin: auto;
 }
+
 h1{
-color: maroon;
+     color: maroon;
      text-align: center;
 }
 
 p{
-color: gray;
+     color: gray;
      border: 1px solid gray;
      padding: 10px;
 }
